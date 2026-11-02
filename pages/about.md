@@ -11,7 +11,7 @@ position: bottom
 # major heading to display over featured image
 heading: About the Collection
 # paragraph text below heading in featured image
-sub-heading: {% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" caption="This guy is good!"%}
+sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 6em
 # Edit the markdown on in this file to describe your collection
