@@ -113,22 +113,7 @@ text-color: "#595959"
 link-color: "#9A9498"
 base-font-family: Mulish # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-@import url('https://fonts.googleapis.com/css2?family=BBH+Bogle&family=Mulish:ital@0;1&display=swap');
 
-body {
-    font-family: "Mulish", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
-}
-.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
-    font-family: "BBH Bogle", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-}
 
 # THEME ICONS [optional!]
 # default icons can be overridden or new icons can be added using "icons" object
