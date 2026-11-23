@@ -111,7 +111,7 @@ bootswatch: sandstone # leave blank or comment out for plain bootstrap
 base-font-size: 1.1em
 text-color: "#595959"
 link-color: "#9A9498"
-base-font-family: Mulish # comment out for bootstrap defaults. e.g. Roboto
+base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 
